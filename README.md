@@ -16,4 +16,4 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-2014 Git.Training
+Please fork this repo
